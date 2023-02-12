@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "615574425385",
+    "project_id": "tubes-872b6",
+    "storage_bucket": "tubes-872b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615574425385:android:3ec1c7ec0aca84eb937138",
+        "android_client_info": {
+          "package_name": "com.example.rancangantubes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615574425385-ja62m8fvmf1h7b97rdil6smeesdgsmle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHRdZ6qNtT1q48FLETrFw6fSFywm74iuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615574425385-ja62m8fvmf1h7b97rdil6smeesdgsmle.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
